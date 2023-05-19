@@ -1,0 +1,6 @@
+com\trigyn\jpalms\controller\BookStudentController.class
+com\trigyn\jpalms\repository\BookStudentRepository.class
+com\trigyn\jpalms\model\BookStudentVO.class
+com\trigyn\jpalms\SpringJpaLmsApplication.class
+com\trigyn\jpalms\entity\BookStudent.class
+com\trigyn\jpalms\service\BookStudentService.class
